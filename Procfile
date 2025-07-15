@@ -1,1 +1,1 @@
-web: node --max-old-space-size=256 node_modules/n8n/bin/n8n
+web: npm start
